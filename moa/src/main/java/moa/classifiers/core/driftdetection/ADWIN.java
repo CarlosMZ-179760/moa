@@ -18,7 +18,7 @@
  *    
  */
 package moa.classifiers.core.driftdetection;
-//Clone verify
+
 import moa.AbstractMOAObject;
 
 /**
